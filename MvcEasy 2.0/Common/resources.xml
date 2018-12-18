@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<resource name="LblHome">
+		<text locale="en" default="true">Home</text>
+		<text locale="nl" default="false">Home</text>
+	</resource>
+	<resource name="LblManagement">
+		<text locale="en"  default="true">Management</text>
+		<text locale="nl" default="false">Beheer</text>
+	</resource>
+	<resource name="LblHomeTxt">
+		<text locale="en"  default="true">
+			Quickstart-application and MVC framework built by Peter Brachwitz, C#.NET engineer. CSS-framework: Bootstrap 4 + CoreUI.
+			All the CoreUI files are in the core-ui folder. 
+		</text>
+		<text locale="nl" default="false">
+			Quickstart-applicatie en MVC-framework gebouwd door Peter Brachwitz,
+			C#.NET engineer. CSS-framework: Bootstrap 4 + CoreUI. Alle CoreUI 
+			bestanden zitten in de core-ui map.
+		</text>
+	</resource>
+	<resource name="LblSql">
+		<text locale="en"  default="true">SQL</text>
+		<text locale="nl" default="false">SQL</text>
+	</resource>
+	<resource name="LblErrorlog">
+		<text locale="en"  default="true">Error logs</text>
+		<text locale="nl" default="false">Error logs</text>
+	</resource>
+	<resource name="LblSelect">
+		<text locale="en"  default="true">SELECT</text>
+		<text locale="nl" default="false">SELECT</text>
+	</resource>
+	<resource name="LblSqlTxt">
+		<text locale="en"  default="true">Type the rest of the SQL statement here</text>
+		<text locale="nl" default="false">Typ de rest van het SQL-statement hier</text>
+	</resource>
+	<resource name="LblPagesize">
+		<text locale="en"  default="true">Pagesize</text>
+		<text locale="nl" default="false">Paginagrootte</text>
+	</resource>
+	<resource name="LblVisitCoreUi">
+		<text locale="en"  default="true">Visit CoreUI</text>
+		<text locale="nl" default="false">Bezoek CoreUI</text>
+	</resource>
+	<resource name="ErrUsernameSpaces">
+		<text locale="en"  default="true">The username may not contain spaces</text>
+		<text locale="nl" default="false">De gebruikersnaam mag geen spaties bevatten</text>
+	</resource>
+	<resource name="LblMyAccount">
+		<text locale="en"  default="true">My account</text>
+		<text locale="nl" default="false">Mijn account</text>
+	</resource>
+	<resource name="LblRoles">
+		<text locale="en"  default="true">Roles</text>
+		<text locale="nl" default="false">Rollen</text>
+	</resource>
+	<resource name="LblUser">
+		<text locale="en"  default="true">User</text>
+		<text locale="nl" default="false">Gebruiker</text>
+	</resource>
+	<resource name="LblAdd">
+		<text locale="en"  default="true">Add</text>
+		<text locale="nl" default="false">Toevoegen</text>
+	</resource>
+	<resource name="LblEdit">
+		<text locale="en"  default="true">Edit</text>
+		<text locale="nl" default="false">Wijzigen</text>
+	</resource>
+	<resource name="LblChange">
+		<text locale="en"  default="true">Change</text>
+		<text locale="nl" default="false">Veranderen</text>
+	</resource>
+	<resource name="TtlForgotPassword">
+		<text locale="en"  default="true">Forgot Password</text>
+		<text locale="nl" default="false">Wachtwoord Vergeten</text>
+	</resource>
+	<resource name="LblActive">
+		<text locale="en"  default="true">Active</text>
+		<text locale="nl" default="false">Actief</text>
+	</resource>
+	<resource name="LblGenerate">
+		<text locale="en"  default="true">Generate</text>
+		<text locale="nl" default="false">Genereer</text>
+	</resource>
+	<resource name="LblClose">
+		<text locale="en"  default="true">Close</text>
+		<text locale="nl" default="false">Sluiten</text>
+	</resource>
+	<resource name="LblSaveChanges">
+		<text locale="en"  default="true">Save changes</text>
+		<text locale="nl" default="false">Wijzigingen opslaan</text>
+	</resource>
+	<resource name="LblUserManagement">
+		<text locale="en"  default="true">User management</text>
+		<text locale="nl" default="false">Gebruikerbeheer</text>
+	</resource>
+	<resource name="LblDiagnostics">
+		<text locale="en"  default="true">Diagnostics</text>
+		<text locale="nl" default="false">Diagnostics</text>
+	</resource>
+	<resource name="LblClear">
+		<text locale="en"  default="true">Clear</text>
+		<text locale="nl" default="false">Wis</text>
+	</resource>
+	<resource name="LblYes">
+		<text locale="en"  default="true">Yes</text>
+		<text locale="nl" default="false">Ja</text>
+	</resource>
+	<resource name="LblNo">
+		<text locale="en"  default="true">No</text>
+		<text locale="nl" default="false">Nee</text>
+	</resource>
+	<resource name="LblForgotPasswordTxt">
+		<text locale="en"  default="true">Enter your username below and a new password will be sent to your emailaddress</text>
+		<text locale="nl" default="false">Voer uw gebruikersnaam hieronder in en een nieuw wachtwoord wordt naar uw e-mailadres gestuurd</text>
+	</resource>
+	<resource name="LblUsers">
+		<text locale="en"  default="true">Users</text>
+		<text locale="nl" default="false">Gebruikers</text>
+	</resource>
+	<resource name="LblEnterCredentials">
+		<text locale="en"  default="true">Please enter your username and password</text>
+		<text locale="nl" default="false">Voer uw gebruikersnaam en wachtwoord in</text>
+	</resource>
+	<resource name="LblNewPasswordSent">
+		<text locale="en"  default="true">A new password has been sent to your emailaddress</text>
+		<text locale="nl" default="false">Een nieuw wachtwoord is verstuurd naar uw e-mailadres</text>
+	</resource>
+	<resource name="LblOldPassword">
+		<text locale="en"  default="true">Current password</text>
+		<text locale="nl" default="false">Huidig wachtwoord</text>
+	</resource>
+	<resource name="LblNewPassword">
+		<text locale="en"  default="true">New password</text>
+		<text locale="nl" default="false">Nieuw wachtwoord</text>
+	</resource>
+	<resource name="LblUserNotFound">
+		<text locale="en"  default="true">User not found</text>
+		<text locale="nl" default="false">Gebruiker niet gevonden</text>
+	</resource>
+	<resource name="LblRepeatPassword">
+		<text locale="en"  default="true">Repeat password</text>
+		<text locale="nl" default="false">Herhaal wachtwoord</text>
+	</resource>
+	<resource name="ErrLogin">
+		<text locale="en"  default="true">The username/password-combination is incorrect</text>
+		<text locale="nl" default="false">De gebruikersnaam/wachtwoord-combinatie was onjuist</text>
+	</resource>
+	<resource name="LblLogin">
+		<text locale="en"  default="true">Login</text>
+		<text locale="nl" default="false">Inloggen</text>
+	</resource>
+	<resource name="LblErrPasswordMismatch">
+		<text locale="en"  default="true">The new password and retyped password don't match</text>
+		<text locale="nl" default="false">Het oude en herhaalde wachtwoord komen niet overeen</text>
+	</resource>
+	<resource name="LblMenu">
+		<text locale="en"  default="true">Menu</text>
+		<text locale="nl" default="false">Menu</text>
+	</resource>
+	<resource name="LblBack">
+		<text locale="en"  default="true">Back</text>
+		<text locale="nl" default="false">Terug</text>
+	</resource>
+	<resource name="ErrUsernameExists">
+		<text locale="en"  default="true">The username is already taken</text>
+		<text locale="nl" default="false">De gebruikersnaam is reeds in gebruik</text>
+	</resource>
+	<resource name="ErrEmailExists">
+		<text locale="en"  default="true">The emailaddress is already taken</text>
+		<text locale="nl" default="false">Het e-mailadres is reeds in gebruik</text>
+	</resource>
+	<resource name="LblSettings">
+		<text locale="en"  default="true">Settings</text>
+		<text locale="nl" default="false">Instellingen</text>
+	</resource>
+	<resource name="LblAccountCreated">
+		<text locale="en"  default="true">Account created. Wait for approval from the administrator</text>
+		<text locale="nl" default="false">Account aangemaakt. Wacht op goedkeuring van de beheerder</text>
+	</resource>
+	<resource name="LblOldPasswordIncorrect">
+		<text locale="en"  default="true">your old password was incorrect</text>
+		<text locale="nl" default="false">Je oude wachtwoord was incorrect</text>
+	</resource>
+	<resource name="LblAccountSaved">
+		<text locale="en"  default="true">Settings</text>
+		<text locale="nl" default="false">Instellingen</text>
+	</resource>
+	<resource name="LblEnvironment">
+		<text locale="en"  default="true">Environment</text>
+		<text locale="nl" default="false">Omgeving</text>
+	</resource>
+	<resource name="LblLogout">
+		<text locale="en"  default="true">Logout</text>
+		<text locale="nl" default="false">Uitloggen</text>
+	</resource>
+	<resource name="LblRegister">
+		<text locale="en"  default="true">Register</text>
+		<text locale="nl" default="false">Registreren</text>
+	</resource>
+	<resource name="LblAccountSaved">
+		<text locale="en"  default="true">Your account has been saved</text>
+		<text locale="nl" default="false">Uw account is opgeslagen</text>
+	</resource>
+	<resource name="LblPasswordChanged">
+		<text locale="en"  default="true">Your password was changed</text>
+		<text locale="nl" default="false">Uw wachtwoord is gewijzigd</text>
+	</resource>
+	<resource name="LblSubmit">
+		<text locale="en"  default="true">Submit</text>
+		<text locale="nl" default="false">Verstuur</text>
+	</resource>
+	<resource name="LblForgotPassword">
+		<text locale="en"  default="true">Forgot password?</text>
+		<text locale="nl" default="false">Wachtwoord vergeten?</text>
+	</resource>
+	<resource name="LblRegisterTitle">
+		<text locale="en"  default="true">Sign up</text>
+		<text locale="nl" default="false">Inschrijven</text>
+	</resource>
+	<resource name="LblCreateYourAccount">
+		<text locale="en"  default="true">Create your account</text>
+		<text locale="nl" default="false">Maak je account aan</text>
+	</resource>
+	<resource name="LblRepeatPassword">
+		<text locale="en"  default="true">Repeat password</text>
+		<text locale="nl" default="false">Herhaal wachtwoord</text>
+	</resource>
+	<resource name="BtnRegisterNow">
+		<text locale="en"  default="true">Register now!</text>
+		<text locale="nl" default="false">Schrijf je nu in!</text>
+	</resource>
+	<resource name="BtnCreateAccount">
+		<text locale="en"  default="true">Create account</text>
+		<text locale="nl" default="false">Account aanmaken</text>
+	</resource>
+	<resource name="LblEmail">
+		<text locale="en"  default="true">Email</text>
+		<text locale="nl" default="false">E-mail</text>
+	</resource>
+	<resource name="LblRegisterTxt">
+		<text locale="en"  default="true">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</text>
+		<text locale="nl" default="false">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</text>
+	</resource>
+	<resource name="LblLoginTxt">
+		<text locale="en"  default="true">Sign In to your account</text>
+		<text locale="nl" default="false">Log in op je account</text>
+	</resource>
+	<resource name="LblName">
+		<text locale="en"  default="true">Name</text>
+		<text locale="nl" default="false">Naam</text>
+	</resource>
+	<resource name="LblUsername">
+		<text locale="en"  default="true">Username</text>
+		<text locale="nl" default="false">Gebruikersnaam</text>
+	</resource>
+	<resource name="LblPassword">
+		<text locale="en"  default="true">Password</text>
+		<text locale="nl" default="false">Wachtwoord</text>
+	</resource>
+</resources>

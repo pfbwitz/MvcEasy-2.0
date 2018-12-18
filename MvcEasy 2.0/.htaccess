@@ -1,0 +1,49 @@
+ErrorDocument 500 http://localhost/500.php
+ErrorDocument 404 http://localhost/404.php
+
+Options -MultiViews
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^ index.php [QSA,L]
+
+<Files *.xml>
+    Order Deny,Allow
+    Deny from all
+    Allow from 127.0.0.1
+</Files>
+
+<Files *.html>
+    Order Deny,Allow
+    Deny from all
+    Allow from 127.0.0.1
+</Files>
+
+<Files *.sql>
+    Order Deny,Allow
+    Deny from all
+    Allow from 127.0.0.1
+</Files>
+
+<Files *.php>
+    Order Deny,Allow
+    Deny from all
+    Allow from 127.0.0.1
+</Files>
+
+<Files index.php>
+    Order Allow,Deny
+    Allow from all
+</Files>
+
+<Files 404.php>
+    Order Allow,Deny
+    Allow from all
+</Files>
+
+<Files 500.php>
+    Order Allow,Deny
+    Allow from all
+</Files>

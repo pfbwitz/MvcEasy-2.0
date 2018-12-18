@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<database>
+		<server>my_production_host</server>
+		<db>my_database_name</db>
+		<user>my_database_username</user>
+		<password>my_database_password</password>
+	</database>
+	<mail>
+		<sender>my_account@gmail.com</sender>
+		<recipient>my_account@gmail.com</recipient>
+	</mail>
+</config>

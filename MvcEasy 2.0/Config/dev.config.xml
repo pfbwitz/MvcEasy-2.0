@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<database>
+		<server>localhost</server>
+		<db>quickstart</db>
+		<user>quickstart_admin</user>
+		<password>G3Vz413TLBUggIBy</password>
+	</database>
+	<mail>
+		<sender>my_account@gmail.com</sender>
+		<recipient>my_account@gmail.com</recipient>
+	</mail>
+</config>

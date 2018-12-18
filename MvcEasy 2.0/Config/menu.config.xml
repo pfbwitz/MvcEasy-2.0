@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<menuitem controller="Home" view="Index" title="LblHome" iconclass="cui-home"></menuitem>
+	
+	<menuitem title="LblManagement" roles="AM, BH" iconclass="cui-settings">
+		<menuitem controller="Diagnostics" view="Index" title="LblDiagnostics" roles="AM" iconclass="cui-equalizer"></menuitem>
+		<menuitem controller="UserManagement" view="Index" title="LblUserManagement" roles="AM, BH" iconclass="cui-user"></menuitem>
+	</menuitem>
+</menu>
